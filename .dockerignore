@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.pytest_cache/
+.git/
+.vscode/
+*.pyc
+train_model.py
+test_main.py
+README.md
